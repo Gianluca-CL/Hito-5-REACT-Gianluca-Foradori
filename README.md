@@ -30,9 +30,4 @@ http://localhost:5173
 
 ---
 
-## 📬 Contacto
 
-**Maximiliano Foradori** 
-
-Padre orgulloso de una hermosa hija, futuro programador, actual encargado de reclutamiento, selección y desarrollo organizacional en Santa Rita Estates.
-📧 maxforamont@live.cl
